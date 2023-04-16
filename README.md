@@ -1,3 +1,3 @@
 # python-challenge
 
-Attached you can find my code for this challenge, as well text files of the analysis. I found this challenge to be difficult.
+This is my second attempt at this challenge, the first attempt I accidentally submitted the PyPoll code for both PyPoll and PyBank.
